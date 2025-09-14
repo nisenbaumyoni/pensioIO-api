@@ -28,6 +28,8 @@ data/
 *.swp
 *.swo
 .DS_Store
+.conda
+.codeium
 
 # Build output
 dist/
